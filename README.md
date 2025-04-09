@@ -14,7 +14,7 @@
  I love exploring new technologies, solving problems, and bringing my ideas to life through code.  
 
  This **GitHub** is my space to share my **projects, ideas, and everything that reflects my growth** as a developer.  
- I'm excited about what’s ahead, as I'm doing my internship at Excelia and applying everything I’ve learned in a real-world environment. 🚀  
+ I'm excited about what’s ahead, as I'm doing my internship at **Excelia** and applying everything I’ve learned in a real-world environment. 🚀  
  If you’re as passionate about **development** as I am or simply curious about my work, **feel free to explore my projects and connect with me!** ✨  
 
 
