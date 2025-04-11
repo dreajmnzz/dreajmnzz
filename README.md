@@ -15,7 +15,9 @@
 
  This **GitHub** is my space to share my **projects, ideas, and everything that reflects my growth** as a developer.  
  I'm excited about what’s ahead, as I'm doing my internship at **Excelia** and applying everything I’ve learned in a real-world environment. 🚀  
- If you’re as passionate about **development** as I am or simply curious about my work, **feel free to explore my projects and connect with me!** ✨  
+ In addition, I'm studying a Master’s in Video Game Design and Programming at Tokio School, focusing on development with Unreal Engine and Unity, which is opening up a whole new world of creativity and technical challenges for me. 🎮
+ 
+ If you’re as passionate about **development** as I am or simply curious about my work, **feel free to explore my projects and connect with me!✨**  
 
 
 ## 🌸Programming Languages🌸
